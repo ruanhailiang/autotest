@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # my define
-/data/
-/log/
-/report/
+/data/*.*
+/log/*.*
+/report/*.*
